@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|c:\\users\\admin\\source\\repos\\ilanojohnrobertrosero\\ilanojohnrobertrosero\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|c:\\users\\admin\\source\\repos\\ilanojohnrobertrosero\\ilanojohnrobertrosero\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\ilanojohnrobertrosero\\adddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\adddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\ilanojohnrobertrosero\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|c:\\users\\admin\\source\\repos\\ilanojohnrobertrosero\\ilanojohnrobertrosero\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|c:\\users\\admin\\source\\repos\\ilanojohnrobertrosero\\ilanojohnrobertrosero\\removedrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\removedrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\ilanojohnrobertrosero\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\ilanojohnrobertrosero\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\ilanojohnrobertrosero\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|c:\\users\\admin\\source\\repos\\ilanojohnrobertrosero\\ilanojohnrobertrosero\\adddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\adddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|c:\\users\\admin\\source\\repos\\ilanojohnrobertrosero\\ilanojohnrobertrosero\\removefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\removefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\ilanojohnrobertrosero\\removefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\removefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\ilanojohnrobertrosero\\removedrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\removedrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|c:\\users\\admin\\source\\repos\\ilanojohnrobertrosero\\ilanojohnrobertrosero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|c:\\users\\admin\\source\\repos\\ilanojohnrobertrosero\\ilanojohnrobertrosero\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\ilanojohnrobertrosero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517BA466-8112-4E18-8CAF-A8A527E12118}|IlanoJohnRobertRosero\\IlanoJohnRobertRosero.csproj|solutionrelative:ilanojohnrobertrosero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Orders.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\Orders.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Orders.cs",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\Orders.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:38:13.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Orders.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\Orders.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Orders.cs [Design]",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\Orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:18:05.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoveDrink.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\RemoveDrink.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\RemoveDrink.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\RemoveDrink.cs",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\RemoveDrink.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:07:21.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddFood.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\AddFood.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\AddFood.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\AddFood.cs",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\AddFood.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIAwwCwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:03:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Products.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\Products.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Products.cs",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\Products.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAhwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:48:05.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcessOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\ProcessOrder.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\ProcessOrder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\ProcessOrder.cs [Design]",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\ProcessOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:22:32.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RemoveDrink.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\RemoveDrink.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\RemoveDrink.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\RemoveDrink.cs [Design]",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\RemoveDrink.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:10:29.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddFood.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\AddFood.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\AddFood.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\AddFood.cs [Design]",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\AddFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:02:33.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddDrink.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\AddDrink.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\AddDrink.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\AddDrink.cs [Design]",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\AddDrink.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:15:23.197Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Products.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\Products.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Products.cs [Design]",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:02:50.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddDrink.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\AddDrink.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\AddDrink.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\AddDrink.cs",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\AddDrink.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:11:45.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RemoveFood.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\RemoveFood.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\RemoveFood.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\RemoveFood.cs",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\RemoveFood.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:09:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProcessOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\ProcessOrder.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\ProcessOrder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\ProcessOrder.cs",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\ProcessOrder.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:29:21.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Form1.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Form1.cs",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:40:09.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RemoveFood.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\RemoveFood.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\RemoveFood.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\RemoveFood.cs [Design]",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\RemoveFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:07:29.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Form1.cs",
+              "RelativeDocumentMoniker": "IlanoJohnRobertRosero\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IlanoJohnRobertRosero\\IlanoJohnRobertRosero\\Form1.cs [Design]",
+              "RelativeToolTip": "IlanoJohnRobertRosero\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:18:36.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
